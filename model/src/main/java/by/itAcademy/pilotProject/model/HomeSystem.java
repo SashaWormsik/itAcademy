@@ -27,6 +27,6 @@ public class HomeSystem {
 
     @Override
     public String toString() {
-        return "HomeSystem:" + tv + acousticSystem;
+        return "HomeSystem:" + tv + ", " + acousticSystem;
     }
 }
